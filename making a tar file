@@ -1,0 +1,12 @@
+mkdir cpsc207
+cd cpsc207
+wget (link was provided) 
+mv main.zip alec-paree.zip 
+unzip alec-paree.zip 
+cd 301-sp-main
+wc hello-world.py or wc -l hello-world.py 
+(wc would have been 7, 17, 121) 
+cat> alec-paree.txt or vi alec-paree.txt (:wq! save and exit out of file) 
+cd .. ( to get to cpsc207) 
+ $tar 301-sp-main.tar 301-sp-main 
+ tar -tf 301-sp-main.tar 
